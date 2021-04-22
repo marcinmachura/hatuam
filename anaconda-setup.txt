@@ -1,0 +1,8 @@
+conda create -n p36 python=3.6
+conda/source activate p3
+conda install pip
+pip install jupyter jupyterlab numpy pandas matplotlib
+
+
+
+apt install virtualenv virtualenvwrapper
